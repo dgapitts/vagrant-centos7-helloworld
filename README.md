@@ -28,7 +28,7 @@ so I've added a .gitignore file
 
 ```
 ~/projects/vagrant-centos7-helloworld# cat .gitignore
-./vagrant
+.vagrant
 ```
 
 
